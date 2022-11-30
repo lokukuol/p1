@@ -1,0 +1,5 @@
+
+#Facebook Audience Network
+
+facebook.com, 798452578030614, DIRECT, c3e20eme3f780d68
+facebook.com, 798452578030614, RESELLER, c3e20eme3f780d68
